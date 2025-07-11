@@ -1,6 +1,6 @@
 # 🛠️ Spring Boot Student CRUD App
 
-A simple and clean **CRUD (Create, Read, Update, Delete)** REST API built with **Spring Boot**, demonstrating how to manage student records with **MySQL database** and **Spring Data JPA**.
+A simple and clean **CRUD (Create, Read, Update, Delete)** REST API built with **Spring Boot**, demonstrating how to manage student records using **MySQL**, **Spring Data JPA**, and **Lombok** for boilerplate-free code.
 
 This project covers:
 
@@ -9,7 +9,8 @@ This project covers:
 - ✅ Creating REST APIs using `@RestController`  
 - ✅ Performing full **CRUD** operations  
 - ✅ Integrating with **Spring Data JPA**  
-- ✅ Testing endpoints with **Postman**
+- ✅ Reducing boilerplate code using **Project Lombok**  
+- ✅ Testing endpoints using **Postman**
 
 ---
 
@@ -28,6 +29,7 @@ This project covers:
 - 🚀 **Spring Boot**  
 - 📦 **Spring Data JPA**  
 - 🗃️ **MySQL**  
+- ✨ **Lombok**  
 - 🔍 **Postman**
 
 ---
